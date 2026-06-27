@@ -7,9 +7,9 @@ A minimal Node.js project boilerplate with ESLint, Jest, and a pre-commit lint h
 
 ## Features
 
-- **Jest** for testing
-- **ESLint** for linting
-- **Husky** pre-commit hook that runs ESLint on staged files
+- Jest for testing
+- ESLint for linting
+- Husky pre-commit hook that runs ESLint on staged files
 - CI via GitHub Actions (Node 20 & 22)
 
 ## Getting Started
